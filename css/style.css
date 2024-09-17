@@ -1,0 +1,32 @@
+.profile {
+    border-radius: 50%;
+    max-height: 250px;
+    max-width: 250px;
+    object-fit: cover;
+}
+
+.custom-button {
+    background-color: #647a6a;
+    color: white;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.project-titles {
+    text-align: center;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+
+.icon-filter {
+    height: 30px;
+    filter: invert(44%) sepia(24%) saturate(255%) hue-rotate(84deg) brightness(97%) contrast(93%);
+}
